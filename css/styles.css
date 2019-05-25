@@ -7,7 +7,7 @@ body {
   font-size: 1.6rem;
 }
 
-h2  {
+h2 {
   margin: 30px 0 15px 0;
   font-size: 2rem;
 }
@@ -29,7 +29,6 @@ input {
   --blur: 10px;
 }
 
-
 .js-color {
   color: var(--base);
 }
@@ -38,7 +37,6 @@ input {
   margin-bottom: 50px;
 }
 
-#base  {
+#base {
   height: 30px;
-}
 }
